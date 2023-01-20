@@ -1,0 +1,25 @@
+.logo1{
+    position: fixed;
+    left:1%;
+    top: 10%
+}
+.logo2{
+    position: fixed;
+    left:1%;
+    top: 17%
+}
+.logo3{
+    position: fixed;
+    left:1%;
+    top: 95%
+}
+
+.sidebar{
+    position: fixed;
+    background-color: rgb(255, 255, 255) !important;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.sidenav---sidenav-toggle---1KRjR{
+    background-color: #bdb4b494;
+}
